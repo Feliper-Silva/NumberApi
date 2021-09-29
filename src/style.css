@@ -1,0 +1,36 @@
+main {
+  text-align: center;
+}
+#dica{
+    opacity: 0.5;
+}
+
+.container {
+  margin: 2% 40% 0% 40%;
+  padding: 1rem;
+  border: none;
+  border-radius: 80px;
+  box-shadow: 2px 2px 3px 2px gray;
+}
+.container button{
+    margin-bottom: 1px;
+}
+.container-result {
+  margin: 1% 40% 3% 40%;
+  padding: 1rem 1rem 2rem 1rem;
+  border: none;
+  border-radius: 35px;
+  box-shadow: 2px 2px 3px 2px gray;
+  opacity: 0;
+}
+.container-result p {
+  text-align: justify;
+}
+.show{
+    opacity: 1;
+}
+
+footer{
+    text-align: center;
+    margin: 25% 0% 0% 0%;
+}

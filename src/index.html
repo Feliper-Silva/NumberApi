@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Number Api</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="/jquery/jquery-3.6.0.min.js" defer></script>
+    <script src="index.js" defer></script>
+</head>
+<body>
+    <main>
+        <h1>Curiosidade sobre os números</h1>
+        <div class="container">
+            <label for="choosenUser">Digite um número: </label><br>
+            <input type="text" name="" id="choosenUser" placeholder="8">
+            <br><br>
+            <button onclick="showNumber()">Buscar</button><br>
+        </div>
+       <p id="dica">x2 clique ou mais em buscar sobre o mesmo número aparecerá mais curiosidades</p>
+        <div class="container-result">
+            <p>Curiosidade:</p> <span id="showChoosen"></span>
+        </div>
+
+    </main>
+    <footer>Felipe Silva - 2021</footer>
+</body>
+</html>
