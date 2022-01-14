@@ -18,6 +18,5 @@ Pagina Simples que pega o número que o usuario passa e enviar uma requisição 
 git clone https://github.com/Feliper-Silva/NumberApi
 
 ## Autor:
-Felipe Silva
-https://www.linkedin.com/in/feliper-silva/
+[Felipe Silva](https://www.linkedin.com/in/feliper-silva/)
 
