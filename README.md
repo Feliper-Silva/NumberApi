@@ -17,6 +17,6 @@
   - Jquery
 
 
-## Autor:
-[Felipe Silva](https://www.linkedin.com/in/feliper-silva/)
+### Autor:
+MIT © [Felipe Silva](https://www.linkedin.com/in/feliper-silva/)
 
